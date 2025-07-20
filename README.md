@@ -9,7 +9,7 @@ A simple JavaScript dice rolling game built with HTML, CSS, and JS.
 - Click **Roll Dice** to roll the dice.
 - Accumulate your score but beware rolling a 1!
 - Click **Hold** to save your score and switch turns.
-- First player to reach 10 points wins!
+- First player to reach 100 points wins!
 
 ---
 
